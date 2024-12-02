@@ -31,3 +31,6 @@ flutter:
     - family: Pacifico
       fonts:
         - asset: fontes/Pacifico-Regular.ttf
+    - family: SourceSansPro
+      fonts:
+        - asset: fontes/SourceSans3-Regular.ttf
